@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=ssXM2opSFvc
 
 - ##### Mobile View
 
-<img src=".\demo\login_02.jpg" alt="login_02" style="zoom:50%;" />
+<img src=".\demo\login_02.jpg" alt="login_02" style="zoom: 33%;" />
